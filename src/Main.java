@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         int var = 5;
-        System.out.println("The result is " + var);
+        System.out.println("The result is branch1 " + var);
     }
 }
